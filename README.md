@@ -28,12 +28,15 @@ I will have my home page indorducing my self, an about page with more details ab
 8. What is your career goal or desired role?
 I would love to be a software engenieer 
 9. What technologies or tools do you have experience with?
-I have expirence with 
+I have experience with android studio, get the rest from my resume
 10. What achievements or experiences are worth highlighting?
-11. What call-to-action should visitors take (contact you, view projects, download resume)?
-12. Will you include a resume? In what format?
-13. What social or professional links will you include (GitHub, LinkedIn, etc.)?
-
+Some of my achievements my time at school 
+12. What call-to-action should visitors take (contact you, view projects, download resume)?
+My call-to-action will be to hire me 
+14. Will you include a resume? In what format?
+I will include my resume in pdf format
+15. What social or professional links will you include (GitHub, LinkedIn, etc.)?
+I will have links to my gitHub and LinkedIn
 --------------------------------------------------
 PART 2: DESIGN (Answer ALL questions)
 
@@ -100,7 +103,4 @@ What to include in the repo:
 - The website files (HTML, CSS, JS)
 	= Code must be original and well-commented
 
---------------------------------------------------
-Extra Credit Opportunity
-- Design the website to be accessible
-- Design the website to be responsive (mobile vs desktop)
+
