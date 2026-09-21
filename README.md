@@ -41,17 +41,18 @@ I will have links to my gitHub and LinkedIn
 PART 2: DESIGN (Answer ALL questions)
 
 1. What overall style will best represent you (minimalist, creative, professional, etc.)?
-2. What color scheme will you use and why?
-3. What fonts will you use for headings and body text?
-4. How will your design reflect your personality or field?
-5. What layout will your homepage follow?
-6. How will you organize project sections visually?
-7. Will the site be mobile-friendly? How will you ensure responsiveness?
-8. What visual hierarchy will guide visitors?
-9. How will consistency be maintained across pages?
-10. How will accessibility be considered (contrast, font size, readability)?
-11. Will you use icons, images, or illustrations? Why?
-12. What portfolio websites inspired your design?
+--i want a professional design to my website
+3. What color scheme will you use and why?
+4. What fonts will you use for headings and body text?
+5. How will your design reflect your personality or field?
+6. What layout will your homepage follow?
+7. How will you organize project sections visually?
+8. Will the site be mobile-friendly? How will you ensure responsiveness?
+9. What visual hierarchy will guide visitors?
+10. How will consistency be maintained across pages?
+11. How will accessibility be considered (contrast, font size, readability)?
+12. Will you use icons, images, or illustrations? Why?
+13. What portfolio websites inspired your design?
 
 --------------------------------------------------
 PART 3: INTERACTIVITY (Answer ALL questions)
