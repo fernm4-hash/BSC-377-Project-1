@@ -109,3 +109,57 @@ nav{
 
 
 
+.aboutMe h1{
+    color: #388df8;
+    font-size: 35px;
+}
+
+.aboutMe h3{
+    font-size: 25px;
+}
+
+.aboutMe p{
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+.skills{
+    margin-top: 40px;
+    border-top: 3px solid #101827;
+    padding-top: 20px;
+}
+
+.skills h2{
+    color: #388df8;
+    font-size: 25px;
+}
+
+.skillsContainer{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.skillsCategory{
+    background-color: #101827;
+    padding: 20px;
+    border-radius: 10px;
+    flex: 1 1 40%;
+    transition: 0.3s ease;
+    
+}
+
+.skillsCategory:hover {
+    background-color: #334155;
+}
+
+.skillsCategory h3{
+    color:#388df8 ;
+    font-size: 20px;
+}
+
+.skillsCategory li {
+    margin-bottom: 10px;
+}
+
+
