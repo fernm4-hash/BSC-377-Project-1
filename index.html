@@ -10,7 +10,7 @@
 <body>
     <nav class = "navBar" >  
         <ul>
-            <li class = logo>MF.</li>
+            <li class = "logo">MF.</li>
             <li> <a href="index.html">Home</a></li>
             <li><a href = "about.html">About</a></li>
             <li><a href = "projects.html">Projects</a></li>    
@@ -20,20 +20,28 @@
     </nav>
     <main>
     <!-- Your website content goes here -->
-    <h1>Michael Fernandez</h1>
-    <h3>Computer Programming and Information Systems Major</h3>
-    <p>I am a college student intrested in learning software engenerring, web development and learning new things!</p>
-    <img src = "images/yearbookPhoto.png" alt ="photo of me" width = 300px height = 350 px>
+     <section class = "intro">
+        <div class = "introText">
+            <h1>Michael Fernandez</h1>
+            <h3>Computer Programming and Information Systems Major</h3>
+            <p>I am a college student intrested in learning software engenerring, web development and learning new things!</p>
+        </div>
+        <div class = "yearbookPhoto">
+            <img src = "images/yearbookPhoto.png" alt ="photo of me" width = "300" height = "350">
+        </div>
+     </section>
+     
+     <section class = "education">
+        <h3> Education</h3>
+        <p>Farmingdale State College</p>
+        <p>Computer Programming and Information Systems</p>
+        <p>Expected Graduation date: 2027</p>
+    </section>
 
-    <h3> Education</h3>
-    <p> Farmingdale State College</p>
-    <p>Computer Programming and Information Systems</p>
-    <p>Expected Graduation date: 2027</p>
-
-    <ul>
-        <li> <button onclick="location.href = 'about.html';">About</button></li>
-        <li> <button onclick="location.href = 'projects.html';">Projects</button></li>
-    </ul>
+    <section class="buttons">
+        <a href="about.html" class="button">About Me</a>
+        <a href="projects.html" class="button">View Projects</a>
+    </section>
     <!-- Link your JS file below -->
     <script src="script.js"></script>
     </main>
