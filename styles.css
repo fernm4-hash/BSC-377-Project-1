@@ -1,1 +1,14 @@
+.navBar{
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  list-style: none;
+  margin: 0px;
+  padding: 0px;
+}
 
+.navBar a {
+  color: blue;
+  font-size: 30px;
+  text-decoration: none;
+}
