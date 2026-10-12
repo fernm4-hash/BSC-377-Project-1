@@ -1,14 +1,49 @@
-.navBar{
+main{
+  max-width: 1400px;
+  margin: auto;
+  padding: 20px;
+}
+
+body{
+    background-color: #1E293B;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    color: #F8FAFE;
+}
+nav{
+    background-color: #101827;
+    
+}
+
+.navBar ul{
+  
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start;
+  align-items: center;
   flex-direction: row;
   list-style: none;
   margin: 0px;
-  padding: 0px;
+  padding: 10px;
+  gap: 30px;
 }
 
 .navBar a {
-  color: blue;
-  font-size: 30px;
+  color: #F8FAFE;
+  font-size: 18px;
   text-decoration: none;
+  transition: 0.5s;
 }
+.navBar a:visited {
+  color: #F8FAFE;
+}
+.navBar a:hover {
+  color: #388df8;
+}
+
+.navBar .logo{
+    font-size: 30px;
+    color: #388df8;
+    font-weight: bold;
+    margin-right: auto;
+}
+
