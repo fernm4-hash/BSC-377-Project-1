@@ -219,6 +219,8 @@ nav{
     color: #F8FAFE;
 }
 
+/*  Styles the contact page*/
+
 .contactContainer {
     display: flex;
     gap: 30px;
