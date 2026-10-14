@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+     <!-- Navigation bar used to move between the five portfolio pages -->
      <nav class = "navBar" >  
         <ul>
             <li class = logo>MF.</li>
@@ -18,24 +19,26 @@
             <li><a href = "contact.html">Contact</a></li>    
         </ul>    
     </nav>
+
+    <!-- Main content of the Contact page -->
     <main>
 
-    <!-- Your website content goes here -->
     <h1 class = "title">Contact Page</h1>
 
     <section class = "contactContainer">
+        <!-- displays short intro about me  -->
         <div class = contactInfo>
 
             <h2>Let's Connect</h2>
             <p>I'm always interested in opportunities to learn, collaborate, and gain experience in software development and technology.</p>
         
-
+        <!-- Card for my email -->
         <div class = "contactCard">
 
             <h3>Email</h3>
             <p>fernm4@farmingdale.edu</p>
         </div>
-
+        <!-- Card for my GitHub link -->
         <div class = "contactCard">
             <h3>GitHub</h3>
             <a class = "button" href = "https://github.com/fernm4-hash" target="_blank" rel="noopener noreferrer"> Link to GitHub</a>
@@ -43,24 +46,36 @@
 
         </div>
 
+
+        <!-- Contact Form Section -->
         <section class = "contactFormSection">
             <h3>Contact Form</h3>
             <form class = "contactForm">
+
+                <!-- Place where users can leave their name -->
                 <label for="name">Name:</label>
                 <input type="text" id="name" name="name" placeholder="Your Name" required>
+
+                <!-- Email Line -->
                 <label for="email">Email:</label>
                 <input type="email" id="email" name="email" placeholder="Email" required>
+
+                <!-- Subject Line -->
                 <label for = "subject">Subject:</label>
                 <input type="text" id="subject" name="subject" placeholder="Subject" required>
+
+                <!-- Text area where users can write their message -->
                 <label for = "message">Message:</label>
                 <textarea name = "message" id = "message" cols = "50" rows = "3" placeholder="Write your message here..." required></textarea>
+
+                <!-- submit button -->
                 <button type = "submit">Submit</button>
             </form>
         </section>
     </section>
     </main>
 
-    <!-- Link your JS file below -->
+    <!-- Link your JS file below and handles the form submission -->
     <script src="script.js"></script>
     
 </body>
