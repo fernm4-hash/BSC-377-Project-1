@@ -88,11 +88,12 @@ Restaurant App and Quiz Quest
 Each project will have a screenshot, descriptioni, technologies used, and a link to the github.   
 4. Information Organization  
 The website will have 5 pages:
-1. Home:indrotuces me and provide info about my education.  
-2. About: Describes my interests, career goals, and technical skills.  
-3. Projects: Shocased my 2 projects.  
-4. Expieriences: Talkes about my work expirence, education, and relevent course work  
-5. Contact: provies a contact form and contact information  
+ Home:indrotuces me and provide info about my education.  
+About: Describes my interests, career goals, and technical skills.  
+Projects: Shocased my 2 projects.  
+Expieriences: Talkes about my work expirence, education, and relevent course work  
+Contact: provies a contact form and contact information  
+
 5. Wireframe/ Visual design  
 Wireframe is in a folder named WireFrame    
    
