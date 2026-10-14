@@ -23,30 +23,45 @@
     <!-- Your website content goes here -->
     <h1 class = "title">Contact Page</h1>
 
-    <h2>Let's Connect</h2>
-    <p>I'm always interested in opportunities to learn, collaborate, and gain experience in software development and technology.</p>
+    <section class = "contactContainer">
+        <div class = contactInfo>
 
-    <h3>Email</h3>
-    <p>fernm4@farmingdale.edu</p>
+            <h2>Let's Connect</h2>
+            <p>I'm always interested in opportunities to learn, collaborate, and gain experience in software development and technology.</p>
+        
 
-    <h3>GitHub</h3>
-    <a href = "https://github.com/fernm4-hash" target="_blank" rel="noopener noreferrer"> Link to GitHub</a>
+        <div class = "contactCard">
 
-    <h3>Contact Form</h3>
-    <form>
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name"><br>
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email"><br>
-        <label for = "subject">Subject:</label>
-        <input type="text" id="subject" name="subject"><br>
-        <label for = "message">Message:</label>
-        <textarea name = "message" id = "message" cols = "50" rows = "3"></textarea><br>
-        <button type = "submit">Submit</button>
-    </form>
+            <h3>Email</h3>
+            <p>fernm4@farmingdale.edu</p>
+        </div>
+
+        <div class = "contactCard">
+            <h3>GitHub</h3>
+            <a class = "button" href = "https://github.com/fernm4-hash" target="_blank" rel="noopener noreferrer"> Link to GitHub</a>
+        </div>
+
+        </div>
+
+        <section class = "contactFormSection">
+            <h3>Contact Form</h3>
+            <form class = "contactForm">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" placeholder="Your Name" required>
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="Email" required>
+                <label for = "subject">Subject:</label>
+                <input type="text" id="subject" name="subject" placeholder="Subject" required>
+                <label for = "message">Message:</label>
+                <textarea name = "message" id = "message" cols = "50" rows = "3" placeholder="Write your message here..." required></textarea>
+                <button type = "submit">Submit</button>
+            </form>
+        </section>
+    </section>
+    </main>
 
     <!-- Link your JS file below -->
     <script src="script.js"></script>
-    </main>
+    
 </body>
 </html>
