@@ -87,7 +87,7 @@ I will have 2 featured projects:
 Restaurant App and Quiz Quest  
 Each project will have a screenshot, descriptioni, technologies used, and a link to the github.   
 4. Information Organization  
-The website will have 5 pages:
+The website will have 5 pages:  
  Home:indrotuces me and provide info about my education.  
 About: Describes my interests, career goals, and technical skills.  
 Projects: Shocased my 2 projects.  
