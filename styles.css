@@ -56,11 +56,6 @@ nav{
     gap: 40px;
 }
 
-.intro h1{
-    font-size: 35px;
-    color: #388df8;
-}
-
 .intro h3{
     font-size: 20px;
 }
@@ -85,7 +80,10 @@ nav{
     color: #388df8;
 }
 
-
+.button:hover{
+    color: #F8FAFE;
+    background-color: #2563EB;
+}
 
 .buttons{
     display: flex;
@@ -102,17 +100,6 @@ nav{
     transition: 0.3s ease;
 }
 
-.buttons a:hover{
-    color: #F8FAFE;
-    background-color: #2563EB;
-}
-
-
-
-.aboutMe h1{
-    color: #388df8;
-    font-size: 35px;
-}
 
 .aboutMe h3{
     font-size: 25px;
@@ -162,11 +149,6 @@ nav{
     margin-bottom: 10px;
 }
 
-.projectTitle{
-    color: #388df8;
-    font-size: 35px;
-}
-
 .projectsContainer{
     display: flex;
     flex-wrap: wrap;
@@ -200,24 +182,14 @@ nav{
     color: #388df8;
 }
 
-.projectButton{
-    background-color:#388df8;
-    color:#101827;
-    text-decoration: none;
-    border-radius: 5px;
-    padding: 12px 20px;
-    transition: 0.3s ease;
-    margin-top: auto;
-    align-self: flex-start;
-}
-
-.projectButton:hover{
-    background-color: #2563EB;
-    color: white;
-
-}
-
 .projectCard:hover {
     background-color: #334155;
+}
+
+
+
+.title{
+    color: #388df8;
+    font-size: 35px;
 }
 
