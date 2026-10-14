@@ -33,18 +33,18 @@ I will have a link to my gitHub
 --------------------------------------------------
 PART 2: DESIGN (Answer ALL questions)
 
-1. What overall style will best represent you (minimalist, creative, professional, etc.)?
-I want my website to have a professional and simple design. 
-2. What color scheme will you use and why?
-I will have a darker color scheme. I will use navy blue beckground, darker navy cards, bright blue headings and white text. I think that this color scheme looks nice and provides a simple and professional design. 
-3. What fonts will you use for headings and body text?
-I will use Arial font throughout the entire website. 
-4. How will your design reflect your personality or field?
-My Website will refelct my intrest in programming through its clean and sleek design.
-5. What layout will your homepage follow?
-It will have a nav bar at the top linking to the other pages. Followed by a introduction, and a professional photo. I will also include info about my eduaction. 
-6. How will you organize project sections visually?
-I will organize my projects by putting them in 2 cards side by side wil flexbox. Each project will have a title, photo, what was used to make it, and a description. 
+1. What overall style will best represent you (minimalist, creative, professional, etc.)?  
+I want my website to have a professional and simple design.   
+2. What color scheme will you use and why?  
+I will have a darker color scheme. I will use navy blue beckground, darker navy cards, bright blue headings and white text. I think that this color scheme looks nice and provides a simple and professional design.   
+3. What fonts will you use for headings and body text?  
+I will use Arial font throughout the entire website.   
+4. How will your design reflect your personality or field?  
+My Website will refelct my intrest in programming through its clean and sleek design.  
+5. What layout will your homepage follow?  
+It will have a nav bar at the top linking to the other pages. Followed by a introduction, and a professional photo. I will also include info about my eduaction.   
+6. How will you organize project sections visually?  
+I will organize my projects by putting them in 2 cards side by side wil flexbox. Each project will have a title, photo, what was used to make it, and a description.   
 7. Will the site be mobile-friendly? How will you ensure responsiveness?
 No the website will not be mobile friendly. 
 8. What visual hierarchy will guide visitors?
