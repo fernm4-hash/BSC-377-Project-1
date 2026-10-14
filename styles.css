@@ -186,10 +186,38 @@ nav{
     background-color: #334155;
 }
 
-
-
 .title{
     color: #388df8;
     font-size: 35px;
 }
+
+.expirence{
+    display: flex;
+    gap: 20px;
+}
+
+.expirCard{
+    background-color: #101827;
+    padding: 20px;
+    border-radius: 10px;
+    flex: 1 1 40%;
+    transition: 0.3s ease;
+}
+
+.expirCard:hover{
+    background-color: #334155;
+}
+
+.expirCard h2 {
+    font-size: 25px;
+    color: #388df8;
+}
+
+.expirCard p, li {
+    font-size: 17px;
+    line-height: 1.5;
+    color: #F8FAFE;
+}
+
+
 
