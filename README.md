@@ -75,24 +75,36 @@ interactivity make the website easier to use and navigate.
 --------------------------------------------------
 
 
-How to submit:
-* Everything is to be posted on GitHub and the website need to be hosted on [GitHub Pages](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
-* Submit only the GitHub Repo and Website URL link on Brightspace
+- Web Design Document
 
-What to include in the repo:
-- Web Design Document: this will be the README.md file in your repo. This includes :
-	= all the questions as well as your answers
-	= any external resources used (links)
-	= wireframe design (hand-drawn/computer-aided)
-	= main sections to include:
-		+ project overview
-		+ target audience
-		+ content strategy
-		+ information organization
-		+ visual desing (wireframe and more)
-		+ interaction / functionality
-		+ technical overview
-		+ timeline / project milestone
+1. Project Overview  
+ This is a personal portfolio website created to shocase my programming skills,education, and work experiences. The purpose of this is to introduce my self to the users.    
+2. Target Audience  
+The audience is potential employeers who want to learn about my technical skills and experience.  
+3. Content Strategy  
+The website focuses on presenting information about my education, technical skills, projects, and experience.  
+I will have 2 featured projects:  
+Restaurant App and Quiz Quest  
+Each project will have a screenshot, descriptioni, technologies used, and a link to the github.   
+4. Information Organization  
+The website will have 5 pages:
+1. Home:indrotuces me and provide info about my education.  
+2. About: Describes my interests, career goals, and technical skills.  
+3. Projects: Shocased my 2 projects.  
+4. Expieriences: Talkes about my work expirence, education, and relevent course work  
+5. Contact: provies a contact form and contact information  
+5. Wireframe/ Visual design  
+Wireframe is in a folder named WireFrame    
+   
+The website will have a professional and minimaliest design with a derk color scheme  
+6. Interaction  
+The website will have interactive features like, a nave bar connecting all 5 pages, buttons linking to other pages and my Github, Hover effects, and a contact form.   
+7. Technical Overview  
+The website used HTML, CSS, JS, VS Code, Git, and GitHub    
+8. Timeline    
+Week of Sep 20: Started to plan out the design of the website and started to answer the design questions. Add all the files and pages to gitHub  
+Week of Oct 4: Started to program the HTML of the Pages  
+Week of Oct 11: Finished programmig the html, startted and finished the CSS and JS of the website.  
 
 
 
